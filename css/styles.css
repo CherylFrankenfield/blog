@@ -1,0 +1,11 @@
+.nav{
+  padding: 8px;
+  background-color: #F4D03F;
+  color: #17202A;
+  text-align: center;
+  font-weight: bold;
+}
+
+.nav li{
+  display: inline;
+}
